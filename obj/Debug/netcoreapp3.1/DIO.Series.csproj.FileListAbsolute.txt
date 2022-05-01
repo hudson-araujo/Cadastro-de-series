@@ -11,3 +11,17 @@
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.dll
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.pdb
 /home/eliezer/sandbox/dio/DIO.Series/obj/Debug/netcoreapp3.1/DIO.Series.genruntimeconfig.cache
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\bin\Debug\netcoreapp3.1\DIO.Series.exe
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\bin\Debug\netcoreapp3.1\DIO.Series.deps.json
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.json
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\bin\Debug\netcoreapp3.1\DIO.Series.runtimeconfig.dev.json
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\bin\Debug\netcoreapp3.1\DIO.Series.dll
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\bin\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\obj\Debug\netcoreapp3.1\DIO.Series.csproj.AssemblyReference.cache
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\obj\Debug\netcoreapp3.1\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfoInputs.cache
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\obj\Debug\netcoreapp3.1\DIO.Series.AssemblyInfo.cs
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\obj\Debug\netcoreapp3.1\DIO.Series.csproj.CoreCompileInputs.cache
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\obj\Debug\netcoreapp3.1\DIO.Series.dll
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\obj\Debug\netcoreapp3.1\DIO.Series.pdb
+D:\One Drive\OneDrive\Desktop\Cadastro de séries\obj\Debug\netcoreapp3.1\DIO.Series.genruntimeconfig.cache
